@@ -1,0 +1,19 @@
+body {background-color:gray
+    }
+H1 {text-align: left;
+    color: blue;
+}
+H2 {text-align: right;
+    color: yellow;
+}
+H3 {text-align; center;
+    color: red;
+}
+H4 {text-align: justify;
+    color: black;
+    background-color: yellow;}
+
+H5 {text-align:center;
+    color:orange;
+    background-color : white;
+}
