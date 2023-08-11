@@ -1,19 +1,25 @@
-body {background-color:gray
-    }
-H1 {text-align: left;
-    color: blue;
-}
-H2 {text-align: right;
-    color: yellow;
-}
-H3 {text-align; center;
-    color: red;
-}
-H4 {text-align: justify;
-    color: black;
-    background-color: yellow;}
+body{
+    background-color:#8be77b;
+    font-family:Verdana, Geneva, tahoma, sans-serfl;
+    color:rgb(205,11,143);
 
-H5 {text-align:center;
-    color:orange;
-    background-color : white;
 }
+body{
+margin:0;
+padding:0;
+height:100% ;
+background-color: #8be77b;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(205,11,143);
+}
+input(
+background-color:#2515b5;
+color:chartreuse;
+
+)
+
+
+
+
+
+
